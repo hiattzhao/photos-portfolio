@@ -29,7 +29,7 @@ layout: home
     </div>
     <div class="social_icons">
       <a href="https://www.facebook.com/hiattzhao" target="_blank"><i class="fab fa-facebook"></i></a>
-      <!-- <a href="https://twitter.com/hiattzhao" target="_blank"><i class="fab fa-twitter"></i></a> -->
+      <a href="https://twitter.com/hiattzhao" target="_blank"><i class="fab fa-twitter"></i></a>
       <a href="https://www.instagram.com/hiattzhao/" target="_blank"><i class="fab fa-instagram"></i></a>
       <a href="https://www.linkedin.com/in/hiattzhao" target="_blank"><i class="fab fa-linkedin-in"></i></a>
       <a href="https://github.com/hiattzhao" target="_blank"><i class="fab fa-github"></i></a>
