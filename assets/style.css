@@ -1,0 +1,66 @@
+/* Gallery width */
+#galleria {
+  height:800px;
+}
+
+#portrait {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  border-radius: 50%;
+}
+
+.site-nav {
+  z-index:  2147483647;
+}
+
+.home, .post, #bio {
+  max-width: -webkit-calc(900px - (30px * 2));
+  max-width: calc(900px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px
+}
+
+#bio h2, #bio p{
+  padding-top: 1em;
+}
+
+hr {
+  width: 75%;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+
+.center {
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
+
+.social_icons {
+  text-align: center;
+  font-size: 2em;
+}
+
+.social_icons a {
+  padding-right: 0.5em;
+}
+
+h2 {
+  text-align: center;
+}
+
+/* Don't show the "I am a ..." titles */
+.title {
+  display: none;
+}
+
+/* Don't show the "more info" links */
+.galleria-info-link {
+  display: none;
+}
