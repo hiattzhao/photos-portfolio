@@ -19,7 +19,7 @@ layout: home
 
   <p>When I'm not doing the above, I like to read positive psychology, business, and design books. I also like to build Raspberry Pi projects, such as a security camera, a video game emulator, and a smart speaker. Sometimes, I play the guitar.</p>
 
-  <p>One of my goals in life is to see the world. My greatest adventure thus far has been a <a class="page-link" href="https://hiattzhao.com" target="_blank">cross country bicycle trip <i class="fa fa-external-link"></i></a> in the spring and summer of 2018 where I biked from Philadelphia to San Francisco in 100 days.</p>
+  <p>One of my goals in life is to see the world. My greatest adventure thus far has been a <a class="page-link" href="https://www.hiattzhao.com/search/label/2018%20Bicycle%20Across%20America" target="_blank">cross country bicycle trip <i class="fa fa-external-link"></i></a> in the spring and summer of 2018 where I biked from Philadelphia to San Francisco in 100 days.</p>
 </div>
 
 <div style="height: 25vh; display: flex; align-items: center; justify-content: center;">
