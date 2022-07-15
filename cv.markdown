@@ -4,7 +4,7 @@ title: cv
 permalink: /cv
 ---
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon Cafe (Wayne, PA) - Solo Exbition
+- 2022, September 4 to October 1: Gryphon Cafe (Wayne, PA) - Solo Exhibition
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
