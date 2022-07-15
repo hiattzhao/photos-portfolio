@@ -25,7 +25,7 @@ layout: home
 <div style="height: 25vh; display: flex; align-items: center; justify-content: center;">
   <div style="margin: 0;">
     <div class="post">
-      <p>You can <a class="page-link" href="mailto:hiattzhao@gmail.com">email me</a> and find me on the following social media platforms.</p>
+      <p>You can <a class="page-link" href="mailto:hiattzhao@gmail.com">email</a> me or find me on the following social media platforms.</p>
     </div>
     <div class="social_icons">
       <a href="https://www.facebook.com/hiattzhao" target="_blank"><i class="fab fa-facebook"></i></a>
