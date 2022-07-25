@@ -10,7 +10,7 @@ After receiving a secondary public education in Madison, NJ, I spent the summer 
 
 Soon after, I attended the University of Rochester (Rochester, NY) majoring in Chemistry with a Management Certificate in Accounting/Finance, along with pre-med. My interest in medicine changed after college and I returned to my passion in photography.
 
-I have been taken photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited many times in galleries since I was 19 years old. Collectors of my work often include leaders of corporations and private institutions have also used my photographs commercially.
+I have been taking photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited many times in galleries since I was 19 years old. Collectors of my work often include leaders of corporations and private institutions have also used my photographs commercially.
 
 Currently, I reside in a suburb outside of Philadelphia, PA, and work as an application engineer.
 
