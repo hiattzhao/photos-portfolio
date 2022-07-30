@@ -8,9 +8,9 @@ Made in China and assembled in the USA, I was born in Beijing and moved to the U
 
 After receiving a secondary public education in Madison, NJ, I spent the summer between high school and college traveling across the United States. After 45 days riding Greyhound buses, I captured over 6000 photographs and visited over 30 cities. Consequently, this trip had a dramatic effect on my photography interest.
 
-Soon after, I attended the University of Rochester (Rochester, NY) majoring in Chemistry with a Management Certificate in Accounting/Finance, along with pre-med. My interest in medicine changed after college and I returned to my passion in photography.
+Soon after, I attended the University of Rochester (Rochester, NY) majoring in chemistry with a management certificate in accounting/finance, along with pre-med. My interest in medicine changed after college and I returned to my passion in photography.
 
-I have been taking photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited many times in galleries since I was 19 years old. Collectors of my work often include leaders of corporations and private institutions have also used my photographs commercially.
+I have been taking photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited in galleries since I was 19 years old. Collectors often include leaders of corporations and private institutions have also used my photographs commercially.
 
 Currently, I reside in a suburb outside of Philadelphia, PA, and work as an application engineer.
 
