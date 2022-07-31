@@ -26,7 +26,7 @@ Currently, I reside in a suburb outside of Philadelphia, PA, and work as an appl
 - 2011, July 15 to August 14: Gallery 14 (Hopewell, NJ) - "Juried Photo Show"
 - 2011, January 6 to January 29: Artists for Art Gallery (Scranton, PA) - "Three Points of View"
 - 2007, March 3 to April 6: Ambré Studio (Bethlehem, PA) - “Architecture Perspective: A Geometric-Reflective Portfolio of Urban American Travel” Solo Exhibition
-- 2006, November 18 to January 18, 2007: Ambré Studio (Bethlehem, PA) - “Snow So White and the Wonders of - Winter” 
+- 2006, November 18 to January 18, 2007: Ambré Studio (Bethlehem, PA) - “Snow So White and the Wonders of Winter” 
 - 2006, November 18 to December 30: Connexions Gallery (Easton, PA) - “Holiday Show”
 - 2006, September 13 to November 12: Connexions Gallery (Easton, PA) - “Fall Group Exhibition” 
 - 2006, Spring: University of Rochester (Rochester, NY) - Harnett Gallery - “Exhibition U” 
