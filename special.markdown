@@ -42,7 +42,7 @@ To learn more about Hiatt's artistic history, visit <a href="https://www.hiattzh
 Moreover, Hiatt has a master degree in finance and currently works at Vanguard as an application engineer to help people reach financial freedom.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition (***Dedicated to My Grandmother***)
+- 2022, September 4 to October 1: Gryphon (Wayne, PA) - My Last Exhibition (***Dedicated to My Grandmother***)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
