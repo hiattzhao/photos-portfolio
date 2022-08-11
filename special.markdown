@@ -26,6 +26,8 @@ Viewer might ask, why $1,000,000?
 
 The answer is: Why not? You'll never get something if you don't ask for it.
 
+*Hiatt also pledges half of this photograph's proceeds will be donated to charities.
+
 # About the Artist
 Made in China and assembled in the USA, Hiatt was born in Beijing and moved to the US before becoming a teenager.
 
@@ -35,12 +37,12 @@ Soon after, Hiatt attended the University of Rochester (Rochester, NY) majoring 
 
 Hiatt has been taking photographs for 20 years and is best known for his <a href="https://photos.hiattzhao.com/abstract" target="_blank">abstract architectural series</a>. His photos have been exhibited in galleries since Hiatt was 19 years old. Collectors often include leaders of corporations and private institutions have also used his photographs commercially.
 
-To learn more about Hiatt's artistic history, visit <a href="https://www.hiattzhao.com/p/art.html" target="_blank">www.hiattzhao.com/p/art.html</a>. Hiatt is also a web design/web development consultant (<a href="https://hiattzhao.github.io" target="_blank">hiattzhao.github.io</a>) and is open to help others.
+To learn more about Hiatt's artistic history, visit <a href="https://www.hiattzhao.com/p/art.html" target="_blank">www.hiattzhao.com/p/art.html</a>.
 
 Moreover, Hiatt has a master degree in finance and currently works at Vanguard as an application engineer to help people reach financial freedom.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition (Dedicated to My Grandmother)
+- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition (***Dedicated to My Grandmother***)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
@@ -58,16 +60,16 @@ Moreover, Hiatt has a master degree in finance and currently works at Vanguard a
 - 2006, February: University of Rochester (Rochester, NY) - ASIS Gallery - “Birds Descend” Solo Exhibition
 - 2004, Fall: University of Rochester (Rochester, NY) - Harnett Gallery - “NYC Collection”
 - 2004, January: Chase Auditorium (Madison, NJ) - “Solo Exhibition of American Travels” Solo Exhibition
-- 2003: Madison Public Library (Madison, NJ) - “Ten Piece Exhibition”
-- 2003: Sweet Dreams (Madison, NJ) - “Earliest Works” 
+- 2003: Madison Public Library (Madison, NJ) - "Ten Piece Exhibition"
+- 2003: Sweet Dreams (Madison, NJ) - "Earliest Works"
 
 # Publications
-- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from Amazon:&nbsp;<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">US</a>,&nbsp;<a href="https://www.amazon.co.uk/dp/B08P2S9S26" target="_blank">UK</a>,&nbsp;<a href="https://www.amazon.de/dp/B08P2S9S26"  target="_blank">DE</a>,&nbsp;<a href="https://www.amazon.fr/dp/B08P2S9S26" target="_blank">FR</a>,&nbsp;<a href="https://www.amazon.es/dp/B08P2S9S26" target="_blank">ES</a>,&nbsp;<a href="https://www.amazon.it/dp/B08P2S9S26" target="_blank">IT</a>,&nbsp;<a href="https://www.amazon.nl/dp/B08P2S9S26"  target="_blank">NL</a>,&nbsp;<a href="https://www.amazon.co.jp/dp/B08P2S9S26"  target="_blank">JP</a>,&nbsp;<a href="https://www.amazon.com.br/dp/B08P2S9S26" target="_blank">BR</a>,&nbsp;<a href="https://www.amazon.ca/dp/B08P2S9S26" target="_blank">CA</a>,&nbsp;<a href="https://www.amazon.com.mx/dp/B08P2S9S26"  target="_blank">MX</a>,&nbsp;<a href="https://www.amazon.com.au/dp/B08P2S9S26" target="_blank">AU</a>,&nbsp;<a href="https://www.amazon.in/dp/B08P2S9S26" target="_blank">IN</a>)
-- 2013: Architecture Perspective: The Ambré Collection (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Amazon</a>)
+- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a>)
+- 2013: Architecture Perspective: The Ambré Collection (<a href="https://www.amazon.com/dp/B07JLT7LNZ" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/1491016930" target="_blank">paperback from Amazon</a>)
 - 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
 - 2009: Architecture Perspective (out of print)
 - 2007: Teenage American Travel: Around the US in 45 Days (out of print)
-- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS (archived at University of Rochester libraries)
+- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS (archived at the University of Rochester libraries)
 - 2003: Glyphs (archived at Madison High School in Madison, NJ)
 - 2003: Windmill of Wonder, Images of the Mind (archived at the International Library of Photography)
 
