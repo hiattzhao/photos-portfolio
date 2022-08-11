@@ -3,6 +3,13 @@
   height:800px;
 }
 
+#special {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  border-radius: 10%;
+}
+
 #portrait {
   display: block;
   margin: 0 auto;
@@ -51,7 +58,7 @@ hr {
   padding-right: 0.5em;
 }
 
-h2 {
+h1, h2 {
   text-align: center;
 }
 

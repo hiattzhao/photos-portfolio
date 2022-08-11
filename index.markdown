@@ -5,27 +5,17 @@
 layout: home
 ---
 <div>
-  <img src="/assets/photos/self.jpg" id="portrait" alt="Hiatt Zhao self portrait">
-
-  <h2>I am 
-    <em class="title">a fine art photographer</em>
-    <em class="title">an application engineer</em>
-    <em class="title">an avid traveler</em>
-    <em class="title">a curious learner</em>
-  </h2>
-
-  <p>I have a passion for the visual arts and I've been exhibiting my photographs in galleries for about twenty years. Along with a scientific mind, I currently work as an application engineer. And in my spare time, I love to travel.</p>
-
-  <p>When I'm not doing the above, I like to read positive psychology, business, and finance books. I also like to write, hike, play the guitar, and visit the library.</p>
-
-  <p>One of my goals in life is to see the world. My greatest adventure thus far has been a <a class="page-link" href="https://www.hiattzhao.com/search/label/2018%20Bicycle%20Across%20America" target="_blank">cross country bicycle trip <i class="fa fa-external-link"></i></a> in the spring and summer of 2018 where I biked from Philadelphia to San Francisco in 100 days.</p>
+  <img src="/assets/photos/architecture-reflections/ar03.jpg" id="special" alt="waged slaves photo">
+  <div style="text-align: center">
+    <h1>My Last Exhibition</h1>
+    <h2>Dedicated to My Grandmother</h2>
+    <h3>When: September 4 to October 1, 2022</h3>
+    <h3>Where: <a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">Gryphon Cafe</a> in downtown Wayne, PA</h3>
+  </div>
 </div>
 
 <div style="height: 25vh; display: flex; align-items: center; justify-content: center;">
   <div style="margin: 0;">
-    <div class="post">
-      <p>You can <a class="page-link" href="mailto:hiattzhao@gmail.com">email</a> me or find me on the following social media platforms.</p>
-    </div>
     <div class="social_icons">
       <a href="https://www.facebook.com/hiattzhao" target="_blank"><i class="fab fa-facebook"></i></a>
       <a href="https://twitter.com/hiattzhao" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -36,20 +26,3 @@ layout: home
     </div>
   </div>
 </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  var titles = $(".title");
-  var titleIndex = 0;
-  function showNextTitle() {
-    titles.eq(titleIndex % titles.length)
-        .fadeIn(2000)
-        .delay(1000)
-        .fadeOut(2000, showNextTitle);
-    titleIndex++;
-  }
-  showNextTitle();
-});
-
-</script>
