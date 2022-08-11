@@ -73,6 +73,7 @@ Moreover, Hiatt has a master degree in finance and currently works at Vanguard a
 
 # Recognition
 - 2010: University of Rochester Department of Chemistry established the “Hiatt Zhao Art Appreciation Prize”
+- 2006, October 14: Certificate of Recognition Honorable Mention Award for "Picture Bucks County"
 
 # Press
 - 2007, March 15: “Young Traveler’s Camera Clicks Cleverly Mix Science and Art” – by Geoff Gehman ([The Morning Call](https://www.mcall.com/news/mc-xpm-2007-03-15-3711499-story.html){:target="_blank"})
