@@ -37,8 +37,8 @@ Currently, I reside in a suburb outside of Philadelphia, PA, and work as an appl
 - 2003: Sweet Dreams (Madison, NJ) - “Earliest Works” 
 
 # Publications
-- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">Amazon</a>)
-- 2013: Architecture Perspective: The Ambré Collection (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/1491016930" target="_blank">Amazon</a>)
+- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a>)
+- 2013: Architecture Perspective: The Ambré Collection (<a href="https://www.amazon.com/dp/B07JLT7LNZ" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/1491016930" target="_blank">paperback from Amazon</a>)
 - 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
 - 2009: Architecture Perspective (out of print)
 - 2007: Teenage American Travel: Around the US in 45 Days (out of print)
