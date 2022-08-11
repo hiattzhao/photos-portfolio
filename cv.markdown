@@ -37,8 +37,8 @@ Currently, I reside in a suburb outside of Philadelphia, PA, and work as an appl
 - 2003: Sweet Dreams (Madison, NJ) - “Earliest Works” 
 
 # Publications
-- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from Amazon:&nbsp;<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">US</a>,&nbsp;<a href="https://www.amazon.co.uk/dp/B08P2S9S26" target="_blank">UK</a>,&nbsp;<a href="https://www.amazon.de/dp/B08P2S9S26"  target="_blank">DE</a>,&nbsp;<a href="https://www.amazon.fr/dp/B08P2S9S26" target="_blank">FR</a>,&nbsp;<a href="https://www.amazon.es/dp/B08P2S9S26" target="_blank">ES</a>,&nbsp;<a href="https://www.amazon.it/dp/B08P2S9S26" target="_blank">IT</a>,&nbsp;<a href="https://www.amazon.nl/dp/B08P2S9S26"  target="_blank">NL</a>,&nbsp;<a href="https://www.amazon.co.jp/dp/B08P2S9S26"  target="_blank">JP</a>,&nbsp;<a href="https://www.amazon.com.br/dp/B08P2S9S26" target="_blank">BR</a>,&nbsp;<a href="https://www.amazon.ca/dp/B08P2S9S26" target="_blank">CA</a>,&nbsp;<a href="https://www.amazon.com.mx/dp/B08P2S9S26"  target="_blank">MX</a>,&nbsp;<a href="https://www.amazon.com.au/dp/B08P2S9S26" target="_blank">AU</a>,&nbsp;<a href="https://www.amazon.in/dp/B08P2S9S26" target="_blank">IN</a>)
-- 2013: Architecture Perspective: The Ambré Collection (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Amazon</a>)
+- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">Amazon</a>)
+- 2013: Architecture Perspective: The Ambré Collection (Kindle ebook and paperback from <a href="https://www.amazon.com/dp/1491016930" target="_blank">Amazon</a>)
 - 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
 - 2009: Architecture Perspective (out of print)
 - 2007: Teenage American Travel: Around the US in 45 Days (out of print)
