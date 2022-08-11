@@ -15,7 +15,7 @@ I have been taking photographs for 20 years and I am best known for my abstract 
 Currently, I reside in a suburb outside of Philadelphia, PA, and work as an application engineer.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition
+- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition (Dedicated to My Grandmother)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
@@ -38,14 +38,13 @@ Currently, I reside in a suburb outside of Philadelphia, PA, and work as an appl
 
 # Publications
 - 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from Amazon:&nbsp;<a href="https://www.amazon.com/dp/B08P2S9S26" rel="nofollow" target="_blank">US</a>,&nbsp;<a href="https://www.amazon.co.uk/dp/B08P2S9S26" rel="nofollow" target="_blank">UK</a>,&nbsp;<a href="https://www.amazon.de/dp/B08P2S9S26" rel="nofollow" target="_blank">DE</a>,&nbsp;<a href="https://www.amazon.fr/dp/B08P2S9S26" rel="nofollow" target="_blank">FR</a>,&nbsp;<a href="https://www.amazon.es/dp/B08P2S9S26" rel="nofollow" target="_blank">ES</a>,&nbsp;<a href="https://www.amazon.it/dp/B08P2S9S26" rel="nofollow" target="_blank">IT</a>,&nbsp;<a href="https://www.amazon.nl/dp/B08P2S9S26" rel="nofollow" target="_blank">NL</a>,&nbsp;<a href="https://www.amazon.co.jp/dp/B08P2S9S26" rel="nofollow" target="_blank">JP</a>,&nbsp;<a href="https://www.amazon.com.br/dp/B08P2S9S26" rel="nofollow" target="_blank">BR</a>,&nbsp;<a href="https://www.amazon.ca/dp/B08P2S9S26" rel="nofollow" target="_blank">CA</a>,&nbsp;<a href="https://www.amazon.com.mx/dp/B08P2S9S26" rel="nofollow" target="_blank">MX</a>,&nbsp;<a href="https://www.amazon.com.au/dp/B08P2S9S26" rel="nofollow" target="_blank">AU</a>,&nbsp;<a href="https://www.amazon.in/dp/B08P2S9S26" rel="nofollow" target="_blank">IN</a>)
-- 2013: Architecture Perspective: The Ambré Collection
-- 2012: Art Takes Times Square - ArtistsWanted.org 
-- 2009: The Artistic Portfolio of Hiatt Zhao
-- 2009: Architecture Perspective
-- 2007: Teenage American Travel: Around the US in 45 Days
-- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS – University of Rochester (Rochester, NY)
-- 2003: Glyphs (Madison, NJ)
-- 2003: Windmill of Wonder, Images of the Mind – International Library of Photography
+- 2013: Architecture Perspective: The Ambré Collection (second edition)
+- 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
+- 2009: Architecture Perspective (out of print)
+- 2007: Teenage American Travel: Around the US in 45 Days (out of print)
+- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS (archived at University of Rochester libraries)
+- 2003: Glyphs (archived at Madison High School in Madison, NJ)
+- 2003: Windmill of Wonder, Images of the Mind (archived at the International Library of Photography)
 
 # Recognition
 - 2010: University of Rochester Department of Chemistry established the “Hiatt Zhao Art Appreciation Prize”

@@ -11,7 +11,6 @@ layout: home
     <em class="title">a fine art photographer</em>
     <em class="title">an application engineer</em>
     <em class="title">an avid traveler</em>
-    <em class="title">an occasional writer</em>
     <em class="title">a curious learner</em>
   </h2>
 

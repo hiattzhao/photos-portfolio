@@ -10,11 +10,17 @@ As he was walking around Manhattan he was not impressed by the people on the str
 
 Hiatt captured this image by using a Canon XT Rebel DSLR with a Sigma zoom lens that he bought with the earnings he saved from participating in a chemistry research summer program on PbSe quantum dots at the University of Rochester in 2005. This photograph's location is a mystery since there was no GPS function built into the digital cameras back then so its exact location was not recorded. Like a puzzle to be solved, this missing information invites the viewer to find its location in Manhattan.
 
-The title of this photograph was called "Transition" due to its realistic and surrealistic qualities, like something that is in the middle of a transformation. However, Hiatt changed its title to "The Waged Slaves" in 2022 because he sees the poor working individuals in each fancy office in the photograph as indentured servants, working for the mighty dollar so they can buy the things they don't need with the money they don't have to impress the people they don't know. Maybe the title can also be both since people are always changing and they have to have some money to sustain their lifestyles.
+The title of this photograph was called "Transition" due to its realistic and surrealistic qualities, like something that is in the middle of a transformation. However, Hiatt changed its title to "The Waged Slaves" in 2022 because he sees the poor working individuals in each fancy office in the photograph as indentured servants, working for the Almighty Dollar so they can buy the things they don't need, with the money they don't have, to impress the people they don't know. Maybe the title can also be both since people are always changing and so is their desire for money.
 
-Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" target="_blank">"architectural reflections"</a> and have exhibited in numerous galleries and offices around the world, such as New York City and Shanghai.
+An art critic named Dan Brown wrote this in a personal letter to the artist about this image:
 
-This is the first of 8 editions with a dimension of 24 inches by 36 inches framed by the artist. Only three editions have been printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left.
+>This is an image that really "speaks" to me. First, I absolutely love the colors: blues and golds and coppers - a sophisticated color palette, if you don't mind me saying. Second, I adore the way that the lower left hand corner is sharp and crisp, as if rendered by a realist painter in the style of Dutch masters, and then it slowly transitions to the upper right hand corner into distorted, undefined colors, as if rendered by an impressionist like Monet - if he had access to the paint pigments of today.
+
+>I'm not much of an "art snob" and I am seldom very good at "interpreting" art, but if you were to ask me what this particular photo symbolizes, then I would have to say life. Meaning, sometimes our lives are clearly defined and easily recognized, while at other times our lives are little more than a blurry haze of colors - hard to describe and define, but still amazingly beautiful. Maybe you consider this picture just one of thousands that you have taken, but for me, it has special meaning and I thank you for that.
+
+Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" target="_blank">"architectural reflections"</a> photographs and have exhibited in numerous galleries and offices around the world, such as New York City and Shanghai.
+
+This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left.
 
 Viewer might ask, why $1,000,000?
 
@@ -29,10 +35,12 @@ Soon after, Hiatt attended the University of Rochester (Rochester, NY) majoring 
 
 Hiatt has been taking photographs for 20 years and is best known for his <a href="https://photos.hiattzhao.com/abstract" target="_blank">abstract architectural series</a>. His photos have been exhibited in galleries since Hiatt was 19 years old. Collectors often include leaders of corporations and private institutions have also used his photographs commercially.
 
-Hiatt also has a masters degree in finance and works at Vanguard as an application engineer to help people reach financial freedom.
+To learn more about Hiatt's artistic history, visit <a href="https://www.hiattzhao.com/p/art.html" target="_blank">www.hiattzhao.com/p/art.html</a>. Hiatt is also a web design/web development consultant (<a href="https://hiattzhao.github.io" target="_blank">hiattzhao.github.io</a>) and is open to help others.
+
+Moreover, Hiatt has a master degree in finance and currently works at Vanguard as an application engineer to help people reach financial freedom.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition
+- 2022, September 4 to October 1: Gryphon (Wayne, PA) - Solo Exhibition (Dedicated to My Grandmother)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
@@ -55,14 +63,13 @@ Hiatt also has a masters degree in finance and works at Vanguard as an applicati
 
 # Publications
 - 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (Kindle ebook and paperback from Amazon:&nbsp;<a href="https://www.amazon.com/dp/B08P2S9S26" rel="nofollow" target="_blank">US</a>,&nbsp;<a href="https://www.amazon.co.uk/dp/B08P2S9S26" rel="nofollow" target="_blank">UK</a>,&nbsp;<a href="https://www.amazon.de/dp/B08P2S9S26" rel="nofollow" target="_blank">DE</a>,&nbsp;<a href="https://www.amazon.fr/dp/B08P2S9S26" rel="nofollow" target="_blank">FR</a>,&nbsp;<a href="https://www.amazon.es/dp/B08P2S9S26" rel="nofollow" target="_blank">ES</a>,&nbsp;<a href="https://www.amazon.it/dp/B08P2S9S26" rel="nofollow" target="_blank">IT</a>,&nbsp;<a href="https://www.amazon.nl/dp/B08P2S9S26" rel="nofollow" target="_blank">NL</a>,&nbsp;<a href="https://www.amazon.co.jp/dp/B08P2S9S26" rel="nofollow" target="_blank">JP</a>,&nbsp;<a href="https://www.amazon.com.br/dp/B08P2S9S26" rel="nofollow" target="_blank">BR</a>,&nbsp;<a href="https://www.amazon.ca/dp/B08P2S9S26" rel="nofollow" target="_blank">CA</a>,&nbsp;<a href="https://www.amazon.com.mx/dp/B08P2S9S26" rel="nofollow" target="_blank">MX</a>,&nbsp;<a href="https://www.amazon.com.au/dp/B08P2S9S26" rel="nofollow" target="_blank">AU</a>,&nbsp;<a href="https://www.amazon.in/dp/B08P2S9S26" rel="nofollow" target="_blank">IN</a>)
-- 2013: Architecture Perspective: The Ambré Collection
-- 2012: Art Takes Times Square - ArtistsWanted.org 
-- 2009: The Artistic Portfolio of Hiatt Zhao
-- 2009: Architecture Perspective
-- 2007: Teenage American Travel: Around the US in 45 Days
-- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS – University of Rochester (Rochester, NY)
-- 2003: Glyphs (Madison, NJ)
-- 2003: Windmill of Wonder, Images of the Mind – International Library of Photography
+- 2013: Architecture Perspective: The Ambré Collection (second edition)
+- 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
+- 2009: Architecture Perspective (out of print)
+- 2007: Teenage American Travel: Around the US in 45 Days (out of print)
+- 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS (archived at University of Rochester libraries)
+- 2003: Glyphs (archived at Madison High School in Madison, NJ)
+- 2003: Windmill of Wonder, Images of the Mind (archived at the International Library of Photography)
 
 # Recognition
 - 2010: University of Rochester Department of Chemistry established the “Hiatt Zhao Art Appreciation Prize”
