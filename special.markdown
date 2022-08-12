@@ -9,7 +9,7 @@ permalink: /special
   margin-right: auto;
   width: 50%;"/>
 
-# About the Photograph
+# About The Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.
 
 As he was walking around Manhattan he was not impressed by the people on the streets going about their business, but was more impressed by the skyscrapers and the reflections that they produced. He saw that people on the ground often don't look up to appreciate the beauty that is surrounding the concrete jungle in arguably one of the greatest cities in the world.
