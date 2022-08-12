@@ -57,4 +57,4 @@ header_pages:
   - travel.markdown
   - cv.markdown
   - about.markdown
- # - special.markdown
+  - special.markdown
