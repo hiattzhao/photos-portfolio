@@ -10,7 +10,7 @@ layout: home
     <h1>My Last Exhibition</h1>
     <h2>Dedicated to My Grandmother</h2>
     <h3>When: September 4 to October 1, 2022</h3>
-    <h3>Where: <a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">Gryphon Cafe</a> in downtown Wayne, PA</h3>
+    <h3>Where: <a href="https://gryphoncoffee.com" target="_blank">Gryphon Café</a> in <a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">downtown Wayne, PA</a></h3>
     <h3>Who: You</h3>
   </div>
 </div>
