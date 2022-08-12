@@ -3,6 +3,12 @@ layout: page
 title: special
 permalink: /special
 ---
+
+<img src="/assets/photos/architecture-reflections/ar03.jpg" alt="Transition/The Waged Slaves" style="height: 600px; width:400px; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"/>
+
 # About the Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.
 
@@ -20,13 +26,13 @@ An art critic named Dan Brown wrote this in a personal letter to the artist abou
 
 Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" target="_blank">"architectural reflections"</a> photographs and have exhibited in numerous galleries and offices around the world, such as New York City and Shanghai.
 
-This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left.
+This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left, but Hiatt doesn't want to print anymore at the time of this writing.
 
-Viewer might ask, why $1,000,000?
+The viewer might ask: Why $1,000,000?
 
 The answer is: Why not? You'll never get something if you don't ask for it.
 
-*Hiatt also pledges at least half of this photograph's proceeds will be donated to charities and people in need.
+**Hiatt also pledges at least half of this photograph's proceeds will be donated to charities and people in need.**
 
 # About the Artist
 Made in China and assembled in the USA, Hiatt was born in Beijing and moved to the US before becoming a teenager.
