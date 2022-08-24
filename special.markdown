@@ -7,7 +7,7 @@ permalink: /special
 <img src="/assets/photos/architecture-reflections/ar03.jpg" alt="Transition/The Waged Slaves" style="height: 600px; width:400px; display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;"/>
+  width: 80%;"/>
 
 # About The Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.
