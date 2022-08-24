@@ -4,14 +4,27 @@
 
 layout: home
 ---
+<style>
+h3 {
+  font-weight: bold;
+}
+</style>
+
 <div>
-  <img src="/assets/photos/architecture-reflections/ar03.jpg" id="special" alt="waged slaves photo">
+  <img src="/assets/photos/architecture-reflections/ar03.jpg" id="special" alt="the waged slaves photo">
   <div style="text-align: center">
     <h1>My Last Exhibition</h1>
     <h2>Dedicated to My Grandmother</h2>
-    <h3>When: September 4 to October 1, 2022</h3>
-    <h3>Where: <a href="https://gryphoncoffee.com" target="_blank">Gryphon Café</a> in <a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">downtown Wayne, PA</a></h3>
-    <h3>Who: You</h3>
+    <h3>When:</h3>
+      <p>September 4 to October 1, 2022 (Closed on Labor Day)</p>
+    <h3>Where:</h3>
+      <p><a href="https://gryphoncoffee.com" target="_blank">Gryphon Café</a> in <a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">downtown Wayne, PA</a></p>
+    <h3>What:</h3>
+      <p>You are invited to view and chill at the most popular café in the affluent Main Line area outside of Philadelphia, with the September featured photographer Hiatt Zhao.<br />He's dedicating this exhibition to honor his late grandmother.</p>
+      <p>All photos are for sale from $0 to $1,000,000 (<a href="special.html" target="_blank">more details</a>).</p>
+<!-- <p>Public Opening Reception is September 11 (Sunday) from noon to 4 PM.</p> -->
+      <p>Meet Hiatt inside Gryphon Café from 7 AM to noon on days the café is open during the exhibition or by appointment at <a href="mailto:hiattzhao@gmail.com">hiattzhao@gmail.com</a></p>
+      <p>He will not be available from September 17 and on.</p>
   </div>
 </div>
 
