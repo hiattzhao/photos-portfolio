@@ -23,8 +23,8 @@ h3 {
       <p>You are invited to view and chill at the most popular café in the affluent Main Line area outside of Philadelphia, with the September featured photographer Hiatt Zhao.<br />He's dedicating this exhibition to honor his late grandmother.</p>
       <p>All photos are for sale from $0 to $1,000,000 (<a href="special.html" target="_blank">more details</a>).</p>
 <!-- <p>Public Opening Reception is September 11 (Sunday) from noon to 4 PM.</p> -->
-      <p>Meet Hiatt inside Gryphon Café from 7 AM to noon on days the café is open during the exhibition or by appointment at <a href="mailto:hiattzhao@gmail.com">hiattzhao@gmail.com</a></p>
-      <p>He will not be available from September 17 and on.</p>
+      <p>Meet Hiatt inside Gryphon Café from 7 AM to 12 noon from September 6 through September 16 for free photographs, or by appointment at <a href="mailto:hiattzhao@gmail.com">hiattzhao@gmail.com</a>.</p>
+      <p>Public Opening Reception: TBD</p>
   </div>
 </div>
 
