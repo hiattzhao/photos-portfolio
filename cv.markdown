@@ -15,7 +15,7 @@ I have been taking photographs for 20 years and I am best known for my abstract 
 Currently, I reside in a suburb outside of Philadelphia, PA, and work as an application engineer.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - My Last Exhibition (***Dedicated to My Grandmother***)
+- 2022, September 4 to October 1: Gryphon (Wayne, PA) - "My Last Exhibition" (*Dedicated to My Grandmother*)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
