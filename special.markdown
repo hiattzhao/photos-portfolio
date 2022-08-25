@@ -29,7 +29,7 @@ The viewer might ask: Why $1,000,000?
 
 The answer is: Why not? You'll never get something if you don't ask for it.
 
-**Hiatt pledges at least half of this photograph's proceeds will be donated to charities and people in need.**
+**Hiatt pledges that half of this photograph's proceeds will be donated to charities and people in need.**
 
 # About the Artist
 Made in China and assembled in the USA, Hiatt was born in Beijing and moved to the US before becoming a teenager.
