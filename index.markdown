@@ -16,7 +16,7 @@ h3 {
     <h1>My Last Exhibition</h1>
     <h2>Dedicated to My Grandmother</h2>
     <h3>When:</h3>
-      <p>September 4 to October 1, 2022 (Closed on Labor Day)</p>
+      <p>September 4 to October 1, 2022<br />(Closed on Labor Day)</p>
     <h3>Where:</h3>
       <p><a href="https://gryphoncoffee.com" target="_blank">Gryphon Café</a> in downtown Wayne, PA (<a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">map</a>)</p>
     <h3>What:</h3>
