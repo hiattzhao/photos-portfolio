@@ -31,6 +31,7 @@ The answer is: Why not? You'll never get something if you don't ask for it.
 
 **Hiatt pledges that half of this photograph's proceeds will be donated to charities and people in need.**
 
+<img src="/assets/photos/self.jpg" id="portrait" alt="Hiatt Zhao self portrait">
 # About the Artist
 Made in China and assembled in the USA, Hiatt was born in Beijing and moved to the US before becoming a teenager.
 
