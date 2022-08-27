@@ -24,7 +24,8 @@ h3 {
       <p>All photos are for sale from $0 to $1,000,000 (<a href="special.html" target="_blank">more details</a>).</p>
 <!-- <p>Public Opening Reception is September 11 (Sunday) from noon to 4 PM.</p> -->
       <p>Meet Hiatt inside Gryphon Café from 7 AM to 12 noon from September 6 through September 16 for free photographs, or by appointment at <a href="mailto:hiattzhao@gmail.com">hiattzhao@gmail.com</a>.</p>
-      <p>Public Opening Reception: TBD</p>
+    <h3>Public Opening Reception:</h3>
+      <p>September 10 (Saturday) from 3 to 5 PM at Gryphon Café in Wayne, PA (<a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">map</a>)</p>
   </div>
 </div>
 
