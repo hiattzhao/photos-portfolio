@@ -55,6 +55,6 @@ header_pages:
   - abstract.markdown
   - nature.markdown
   - travel.markdown
+  - special.markdown
   - cv.markdown
   - about.markdown
-  - special.markdown
