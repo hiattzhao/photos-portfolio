@@ -27,16 +27,3 @@ h3 {
       <p>September 10 (Saturday) from 3 to 5 PM at Gryphon Café in Wayne, PA (<a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">map</a>)</p>
   </div>
 </div>
-
-<div style="height: 25vh; display: flex; align-items: center; justify-content: center;">
-  <div style="margin: 0;">
-    <div class="social_icons">
-      <a href="https://www.facebook.com/hiattzhao" target="_blank"><i class="fab fa-facebook"></i></a>
-      <a href="https://twitter.com/hiattzhao" target="_blank"><i class="fab fa-twitter"></i></a>
-      <a href="https://www.instagram.com/hiattzhao/" target="_blank"><i class="fab fa-instagram"></i></a>
-      <a href="https://www.linkedin.com/in/hiattzhao" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-      <a href="https://github.com/hiattzhao" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="https://vimeo.com/hiattzhao/" target="_blank"><i class="fab fa-vimeo-v"></i></a>
-    </div>
-  </div>
-</div>
