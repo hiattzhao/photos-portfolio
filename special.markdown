@@ -68,7 +68,7 @@ Moreover, Hiatt has a master degree in finance and currently works at Vanguard a
 - 2003: Sweet Dreams (Madison, NJ) - "Earliest Works"
 
 # Publications
-- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a> or you can read it for free for a limited time at <a href="https://zhaoism.com" target="_blank">zhaoism.com</a>)
+- 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a>)
 - 2013: Architecture Perspective: The Ambré Collection (<a href="https://www.amazon.com/dp/B07JLT7LNZ" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/1491016930" target="_blank">paperback from Amazon</a>)
 - 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
 - 2009: Architecture Perspective (out of print)
