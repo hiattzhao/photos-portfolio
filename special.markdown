@@ -4,7 +4,7 @@ title: special
 permalink: /special
 ---
 <div style="text-align:center">
-<img src="/assets/photos/architecture-reflections/ar03.jpg" alt="Transition/The Waged Slaves" id="speical"/>
+<img src="/assets/photos/architecture-reflections/ar3.jpg" alt="Transition/The Waged Slaves" id="speical"/>
 </div>
 # About The $1,000,000 Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.

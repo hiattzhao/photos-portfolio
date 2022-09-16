@@ -11,7 +11,7 @@ h3 {
 </style>
 
 <div>
-  <img src="/assets/photos/architecture-reflections/ar03.jpg" id="special" alt="the waged slaves photo">
+  <img src="/assets/photos/architecture-reflections/ar3.jpg" id="special" alt="the waged slaves photo">
   <div style="text-align: center">
     <h1>My Last Exhibition</h1>
     <h2>Dedicated to My Grandmother</h2>
