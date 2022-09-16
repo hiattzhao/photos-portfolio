@@ -15,7 +15,7 @@ permalink: /abstract
   var thumbLocation = imageLocation + 'thumb-ar/';
   var bigLocation = imageLocation;
   var imagePrefix = 'ar';
-  var totalImages = 63;
+  var totalImages = 60;
   
   var data = [];
   var titles = [
@@ -56,7 +56,6 @@ permalink: /abstract
     '2012 Shanghai 2414',
     '2012 Shanghai 2427',
     '2012 Shanghai 2454',
-    '2012 Shanghai 2806',
     '2012 Shanghai 3043',
     '2012 Shanghai 3063',
     '2012 Shanghai 3202',
@@ -69,7 +68,6 @@ permalink: /abstract
     '2012 XiAn 1164',
     '2012 XiAn 1176',
     '2012 XiAn 1270',
-    '2013 Anchorage 096',
     '2013 Anchorage 118',
     '2013 Anchorage 202',
     '2013 Beijing 0218',
@@ -80,19 +78,14 @@ permalink: /abstract
     '2013 Seattle 785',
     '2013 Vancouver 169',
     '2013 Vancouver 176',
-    '2013 Vancouver 339',
-    '2013 Vancouver 621'
+    '2013 Vancouver 339'
   ];
 
   for (var i = 1; i <= totalImages; i++) {
-    var j = i;
-    if (i < 10) {
-      j = '0' + i;
-    }
     data.push({
-      image : imageLocation + imagePrefix + j + '.jpg',
-      thumb : thumbLocation + imagePrefix + j + '.jpg',
-      big : imageLocation + imagePrefix + j + '.jpg',
+      image : imageLocation + imagePrefix + i + '.jpg',
+      thumb : thumbLocation + imagePrefix + i + '.jpg',
+      big : imageLocation + imagePrefix + i + '.jpg',
       title: titles[i - 1],
       description: 'none'
     });
