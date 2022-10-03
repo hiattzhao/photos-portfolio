@@ -4,26 +4,36 @@
 
 layout: home
 ---
-<style>
-h3 {
-  font-weight: bold;
-}
-</style>
-
 <div>
-  <img src="/assets/photos/architecture-reflections/ar3.jpg" id="special" alt="the waged slaves photo">
-  <div style="text-align: center">
-    <h1>My Last Exhibition</h1>
-    <h2>Dedicated to My Grandmother</h2>
-    <h3>When:</h3>
-      <p>September 4 to October 1, 2022</p>
-    <h3>Where:</h3>
-      <p><a href="https://gryphoncoffee.com" target="_blank">Gryphon Café</a> in downtown Wayne, PA (<a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">map</a>)</p>
-    <h3>What:</h3>
-      <p>You are invited to view and chill at the most popular café in the affluent Main Line area outside of Philadelphia, with the September featured photographer Hiatt Zhao.<br />He's dedicating this exhibition to honor his late grandmother.</p>
-      <p>All photos are for sale from $0 to $1,000,000 (<a href="special.html" target="_blank">more details</a>).</p>
-      <p>Meet Hiatt inside Gryphon Café from 9 AM to 12 noon from September 4 through <del>September 16</del> September 14 for free photographs, or by appointment at <a href="mailto:hiattzhao@gmail.com">hiattzhao@gmail.com</a>.</p>
-    <h3>Public Opening Reception:</h3>
-      <p>September 10 (Saturday) from 3 to 5 PM at Gryphon Café in Wayne, PA (<a href="https://goo.gl/maps/yK7xo1CoQ8ECbcim6" target="_blank">map</a>)</p>
-  </div>
+  <img src="/assets/photos/self.jpg" id="portrait" alt="Hiatt Zhao self portrait">
+
+  <h2>I am 
+    <em class="title">a fine art photographer</em>
+    <em class="title">an application engineer</em>
+    <em class="title">an avid traveler</em>
+    <em class="title">a curious learner</em>
+  </h2>
+
+  <p>I have a passion for the visual arts and I've been exhibiting my photographs in galleries for about twenty years. Along with a scientific mind, I currently work as an application engineer. And in my spare time, I love to travel.</p>
+
+  <p>When I'm not doing the above, I like to read positive psychology, business, and finance books. I also like to write, hike, play the guitar, and visit the library.</p>
+
+  <p>One of my goals in life is to see the world. My greatest adventure thus far has been a <a class="page-link" href="https://www.hiattzhao.com/search/label/2018%20Bicycle%20Across%20America" target="_blank">cross country bicycle trip <i class="fa fa-external-link"></i></a> in the spring and summer of 2018 where I biked from Philadelphia to San Francisco in 100 days.</p>
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  var titles = $(".title");
+  var titleIndex = 0;
+  function showNextTitle() {
+    titles.eq(titleIndex % titles.length)
+        .fadeIn(2000)
+        .delay(1000)
+        .fadeOut(2000, showNextTitle);
+    titleIndex++;
+  }
+  showNextTitle();
+});
+
+</script>
