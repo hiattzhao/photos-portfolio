@@ -3,6 +3,10 @@ layout: page
 title: cv
 permalink: /cv
 ---
+<div>
+  <img src="/assets/photos/self.jpg" id="portrait" alt="Hiatt Zhao self portrait">
+  <br />
+</div>
 # Biography
 Made in China and assembled in the USA, I was born in Beijing and moved to the US before becoming a teenager.
 
@@ -15,7 +19,7 @@ I have been taking photographs for 20 years and I am best known for my abstract 
 Currently, I reside in a suburb outside of Philadelphia, PA, and work as an application engineer.
 
 # Exhibitions
-- 2022, September 4 to October 1: Gryphon (Wayne, PA) - "My Last Exhibition" (*Dedicated to My Grandmother*)
+- 2022, September 4 to October 1: Gryphon Café (Wayne, PA) - "My Last Exhibition" (*Dedicated to My Grandmother*)
 - 2018, October: Gravy Studio and Gallery (Philadelphia, PA)
 - 2018, September: Beyond the Seams (Philadelphia, PA) - "Group Show"
 - 2016, January 9 to January 16: Con Artist Gallery (New York, NY) – “Is/Is Not”
@@ -34,7 +38,7 @@ Currently, I reside in a suburb outside of Philadelphia, PA, and work as an appl
 - 2004, Fall: University of Rochester (Rochester, NY) - Harnett Gallery - “NYC Collection”
 - 2004, January: Chase Auditorium (Madison, NJ) - “Solo Exhibition of American Travels” Solo Exhibition
 - 2003: Madison Public Library (Madison, NJ) - “Ten Piece Exhibition”
-- 2003: Sweet Dreams (Madison, NJ) - “Earliest Works” 
+- 2003: Sweet Dreams Café (Madison, NJ) - “Earliest Works” 
 
 # Publications
 - 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a>)
