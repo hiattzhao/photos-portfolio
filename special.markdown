@@ -6,7 +6,7 @@ permalink: /special
 <div style="text-align:center">
 <img src="/assets/photos/architecture-reflections/ar3.jpg" alt="Transition/The Waged Slaves" id="speical"/>
 </div>
-# About The $1,000,000 Photograph
+# For Sale: The $1,000,000 Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.
 
 As he was walking around Manhattan he was not impressed by the people on the streets going about their business, but was more impressed by the skyscrapers and the reflections that they produced. He saw that people on the ground often don't look up to appreciate the beauty that is surrounding the concrete jungle in arguably one of the greatest cities in the world.
@@ -27,4 +27,8 @@ This particular photograph is the first of 8 editions with a dimension of 24 inc
 
 The viewer might ask: Why $1,000,000?
 
-The answer is: Why not? You'll never get something if you don't ask for it.
+The answer is: Why not? You'll never get something if you don't ask.
+
+<div style="text-align:center">
+    <a href="mailto:hiattzhao@gmail.com">Email Hiatt to purchase</a>
+</div>
