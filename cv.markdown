@@ -16,7 +16,7 @@ Soon after, I attended the University of Rochester (Rochester, NY) majoring in c
 
 I have been taking photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited in galleries since I was 19 years old. Collectors often include leaders of corporations and private institutions have also used my photographs commercially.
 
-Currently, I'm preparing <a href="https://hiattzhao.com" target="_blank">an around the world cycling adventure</a> that will start on March 20, 2023.
+Currently, I'm <a href="https://hiattzhao.com" target="_blank">cycling around the world</a>.
 
 # Exhibitions
 - 2022, September 4 to October 1: Gryphon Café (Wayne, PA) - "My Last Exhibition" (*Dedicated to My Grandmother*)
