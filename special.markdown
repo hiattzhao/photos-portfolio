@@ -25,10 +25,6 @@ Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" tar
 
 This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have been printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left, but Hiatt doesn't want to print more.
 
-The viewer might ask: Why $1,000,000?
-
-The answer is: Why not? You'll never get something if you don't ask.
-
 <div style="text-align:center">
     <a href="mailto:hiattzhao@gmail.com">Email Hiatt to purchase</a>
 </div>

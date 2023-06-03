@@ -14,9 +14,7 @@ After receiving a secondary public education in Madison, NJ, I spent the summer 
 
 Soon after, I attended the University of Rochester (Rochester, NY) majoring in chemistry with a management certificate in accounting/finance, along with pre-med. My interest in medicine changed after college and I returned to my passion in photography.
 
-I have been taking photographs for 20 years and I am best known for my abstract architectural series. My photos have been exhibited in galleries since I was 19 years old. Collectors often include leaders of corporations and private institutions have also used my photographs commercially.
-
-Currently, I'm <a href="https://hiattzhao.com" target="_blank">cycling around the world</a>.
+I have been taking photographs for over 20 years and I am best known for my abstract architectural series. My photos have been exhibited in galleries since I was 19 years old. Collectors often include leaders of corporations and private institutions have also used my photographs commercially.
 
 # Exhibitions
 - 2022, September 4 to October 1: Gryphon Café (Wayne, PA) - "My Last Exhibition" (*Dedicated to My Grandmother*)
