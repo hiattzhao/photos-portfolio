@@ -82,7 +82,7 @@ layout: home
     '2013 Vancouver 339'
   ];
 
-  for (var i = 1; i <= totalImages; i++) {
+  for (var i = totalImages; i >= 1; i--) {
     data.push({
       image : imageLocation + imagePrefix + i + '.jpg',
       thumb : thumbLocation + imagePrefix + i + '.jpg',

@@ -47,7 +47,7 @@ permalink: /travel
     '2015 Rochester 075'
   ];
 
-  for (var i = 1; i <= totalImages; i++) {
+  for (var i = totalImages; i >= 1; i--) {
     var j = i;
     if (i < 10) {
       j = '0' + i;
