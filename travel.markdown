@@ -2,6 +2,8 @@
 layout: page
 title: travel
 permalink: /travel
+redirect_from:
+  - /
 ---
 <div id="galleria"></div>
 
@@ -15,7 +17,6 @@ permalink: /travel
   var thumbLocation = imageLocation + 'thumb-t/';
   var bigLocation = imageLocation;
   var imagePrefix = 't';
-  var totalImages = 26;
   
   var data = [];
   var titles = [
@@ -46,6 +47,8 @@ permalink: /travel
     '2015 Rochester 059',
     '2015 Rochester 075'
   ];
+
+  var totalImages = titles.length;
 
   for (var i = totalImages; i >= 1; i--) {
     var j = i;

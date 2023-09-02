@@ -16,7 +16,6 @@ layout: home
   var thumbLocation = imageLocation + 'thumb-ar/';
   var bigLocation = imageLocation;
   var imagePrefix = 'ar';
-  var totalImages = 60;
   
   var data = [];
   var titles = [
@@ -81,6 +80,8 @@ layout: home
     '2013 Vancouver 176',
     '2013 Vancouver 339'
   ];
+
+  var totalImages = titles.length;
 
   for (var i = totalImages; i >= 1; i--) {
     data.push({

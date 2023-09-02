@@ -16,7 +16,6 @@ permalink: /nature
   var thumbLocation = imageLocation + 'thumb-n/';
   var bigLocation = imageLocation;
   var imagePrefix = 'n';
-  var totalImages = 28;
   
   var data = [];
   var titles = [
@@ -49,6 +48,8 @@ permalink: /nature
     '2017 Moon 39',
     '2017 New Years Day 22'
   ];
+
+  var totalImages = titles.length;
 
   for (var i = totalImages; i >= 1; i--) {
     var j = i;
