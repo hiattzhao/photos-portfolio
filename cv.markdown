@@ -3,10 +3,12 @@ layout: page
 title: cv
 permalink: /cv
 ---
+<!--
 <div>
   <img src="/assets/photos/self.jpg" id="portrait" alt="Hiatt Zhao self portrait">
   <br />
 </div>
+-->
 # Biography
 Made in China and assembled in the USA, I was born in Beijing and moved to the US before becoming a teenager.
 
