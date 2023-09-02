@@ -2,8 +2,6 @@
 layout: page
 title: travel
 permalink: /travel
-redirect_from:
-  - /
 ---
 <div id="galleria"></div>
 

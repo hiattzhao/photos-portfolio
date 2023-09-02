@@ -2,6 +2,8 @@
 layout: page
 title: abstract
 permalink: /abstract
+redirect_from:
+  - /
 ---
 <div id="galleria"></div>
 
