@@ -3,10 +3,10 @@ layout: page
 title: special
 permalink: /special
 ---
+
 <div style="text-align:center">
-<img src="/assets/photos/architecture-reflections/ar3.jpg" alt="Transition/The Waged Slaves" id="speical"/>
+<img src="/assets/photos/architecture-reflections/ar3.jpg" alt="Transition/The Waged Slaves" id="special"/>
 </div>
-# For Sale: The $1,000,000 Photograph
 This photograph was captured on January 10, 2007, in New York City by a back-then 22 years young photographer named Hiatt Zhao.
 
 As he was walking around Manhattan he was not impressed by the people on the streets going about their business, but was more impressed by the skyscrapers and the reflections that they produced. He saw that people on the ground often don't look up to appreciate the beauty that is surrounding the concrete jungle in arguably one of the greatest cities in the world.
@@ -17,9 +17,9 @@ The title of this photograph was called "Transition" due to its realistic and su
 
 An art critic named Dan Brown wrote this in a personal letter to the artist about this image:
 
->This is an image that really "speaks" to me. First, I absolutely love the colors: blues and golds and coppers - a sophisticated color palette, if you don't mind me saying. Second, I adore the way that the lower left hand corner is sharp and crisp, as if rendered by a realist painter in the style of Dutch masters, and then it slowly transitions to the upper right hand corner into distorted, undefined colors, as if rendered by an impressionist like Monet - if he had access to the paint pigments of today.
+> This is an image that really "speaks" to me. First, I absolutely love the colors: blues and golds and coppers - a sophisticated color palette, if you don't mind me saying. Second, I adore the way that the lower left hand corner is sharp and crisp, as if rendered by a realist painter in the style of Dutch masters, and then it slowly transitions to the upper right hand corner into distorted, undefined colors, as if rendered by an impressionist like Monet - if he had access to the paint pigments of today.
 
->I'm not much of an "art snob" and I am seldom very good at "interpreting" art, but if you were to ask me what this particular photo symbolizes, then I would have to say life. Meaning, sometimes our lives are clearly defined and easily recognized, while at other times our lives are little more than a blurry haze of colors - hard to describe and define, but still amazingly beautiful. Maybe you consider this picture just one of thousands that you have taken, but for me, it has special meaning and I thank you for that.
+> I'm not much of an "art snob" and I am seldom very good at "interpreting" art, but if you were to ask me what this particular photo symbolizes, then I would have to say life. Meaning, sometimes our lives are clearly defined and easily recognized, while at other times our lives are little more than a blurry haze of colors - hard to describe and define, but still amazingly beautiful. Maybe you consider this picture just one of thousands that you have taken, but for me, it has special meaning and I thank you for that.
 
 Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" target="_blank">"architectural reflections"</a> photographs and have exhibited in numerous galleries and offices around the world, such as New York City and Shanghai.
 
