@@ -5,9 +5,9 @@
 
 #special {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 10px auto;
   width: 50%;
-  border-radius: 10%;
+  border-radius: 10px;
 }
 
 #portrait {
