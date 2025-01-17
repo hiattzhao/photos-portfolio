@@ -20,7 +20,7 @@
 
 title: Hiatt Zhao
 email: hiattzhao@gmail.com
-description: Hiatt Zhao Photography
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://photo.hiattzhao.com"
 twitter_username: hiattzhao
@@ -56,5 +56,5 @@ header_pages:
   - abstract.markdown
   - nature.markdown
   - travel.markdown
-  - special.markdown
+  - shop.markdown
   - cv.markdown

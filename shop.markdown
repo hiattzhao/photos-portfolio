@@ -1,7 +1,7 @@
 ---
 layout: page
-title: special
-permalink: /special
+title: shop
+permalink: /shop
 ---
 
 <div style="text-align:center">
@@ -11,7 +11,7 @@ This photograph was captured on January 10, 2007, in New York City by a back-the
 
 As he was walking around Manhattan he was not impressed by the people on the streets going about their business, but was more impressed by the skyscrapers and the reflections that they produced. He saw that people on the ground often don't look up to appreciate the beauty that is surrounding the concrete jungle in arguably one of the greatest cities in the world.
 
-Hiatt captured this image by using a Canon XT Rebel DSLR with a Sigma zoom lens that he bought with the earnings he saved from participating in a chemistry research summer program on PbSe quantum dots at the University of Rochester in 2005. This photograph's location is a mystery since there was no GPS function built into the digital cameras back then so its exact location was not recorded. Like a puzzle to be solved, this missing information invites the viewer to find its location in Manhattan.
+Hiatt captured this image by using a Canon XT Rebel DSLR with a Sigma zoom lens. He bought the gear with the earnings he saved from participating in a chemistry research summer program on PbSe quantum dots at the University of Rochester in 2005. This photograph's location is a mystery since there was no GPS function built into the digital cameras back then so its exact location was not recorded. Like a puzzle to be solved, this missing information invites the viewer to find its location in Manhattan.
 
 The title of this photograph was called "Transition" due to its realistic and surrealistic qualities, like something that is in the middle of a transformation. However, Hiatt changed its title to "The Waged Slaves" in 2022 because he sees the poor working individuals in each fancy office in the photograph as indentured servants, working for the Almighty Dollar so they can buy the things they don't need, with the money they don't have, to impress the people they don't know. Maybe the title can also be both since people are always changing and so is their desire for money.
 
@@ -23,8 +23,6 @@ An art critic named Dan Brown wrote this in a personal letter to the artist abou
 
 Hiatt has captured thousands of these <a href="https://vimeo.com/hiattzhao/" target="_blank">"architectural reflections"</a> photographs and have exhibited in numerous galleries and offices around the world, such as New York City and Shanghai.
 
-This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have been printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left, but Hiatt doesn't want to print more.
+This particular photograph is the first of 8 editions with a dimension of 24 inches by 36 inches, printed in 2010 and framed by the artist. Only three editions have been printed so far. The second edition is an 8 inches by 10 inches print owned by a collector. And the third edition is in a form of a wall sticker that is on the artist's bedroom wall. There are now five unreleased editions left.
 
-<div style="text-align:center">
-    <a href="mailto:hiattzhao@gmail.com">Email Hiatt to purchase</a>
-</div>
+Hiatt likes to know his collectors, so a <a href="mailto:hiattzhao@gmail.com">direct email</a> is preferred if one is interested in purchasing any of his photographs. Hiatt is also on <a href="https://instagram.com/hiattzhao/" target="_blank">instagram</a>.
