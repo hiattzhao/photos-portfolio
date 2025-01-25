@@ -3,6 +3,7 @@ layout: page
 title: travel
 permalink: /travel
 ---
+
 <div id="galleria"></div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -13,54 +14,23 @@ permalink: /travel
 <script>
   var imageLocation = '/assets/photos/travel/';
   var thumbLocation = imageLocation + 'thumb-t/';
-  var bigLocation = imageLocation;
   var imagePrefix = 't';
   
   var data = [];
-  var titles = [
-    '2005 Boston 041',
-    '2006 Chicago 024',
-    '2006 New Hope 006',
-    '2006 New York City 114',
-    '2006 Philadelphia 121',
-    '2006 Philadelphia 151',
-    '2009 New Year 151',
-    '2010 New Jersey 045',
-    '2013 Beijing 0226',
-    '2013 Beijing 0507',
-    '2013 Beijing 1454',
-    '2013 Beijing 2143',
-    '2013 Chichen Itza 280',
-    '2013 Allentown 161',
-    '2014 Burlington 21',
-    '2014 Fort Myers 55',
-    '2014 Pittsburgh 007',
-    '2015 Las Vegas 027',
-    '2015 New York City 035',
-    '2015 New York City 0117',
-    '2015 New York City 0139',
-    '2015 New York City 0400',
-    '2015 New York City 0683',
-    '2015 New York City 1061',
-    '2015 Rochester 059',
-    '2015 Rochester 075'
-  ];
+  var titles = ['2002 StElizabeth 12', '2003 BlackHills 070', '2003 BlackHills 255', '2003 Butte 004', '2003 Butte 007', '2003 Chicago 267', '2003 Chicago 277', '2003 Chicago 312', '2003 Dallas 051', '2003 Houston 097', '2003 LosAngeles 002', '2003 LosAngeles 005', '2003 LosAngeles 008', '2003 Minneapolis 378', '2003 NewOrleans 181', '2003 NewOrleans 281', '2003 Philadelphia 039', '2003 Philadelphia 055', '2003 Portland 117', '2003 SaltLakeCity 060', '2003 SaltLakeCity 083', '2003 SanAntonio 106', '2003 SanFrancisco 089', '2003 SantaFe 034', '2003 Savannah 026', '2003 Seattle 050', '2003 StAugustine 023', '2004 BrooklynHeights 25', '2004 NewYorkCity 179', '2004 NewYorkCity 793', '2004 NewYorkCity 941', '2004 NewYorkCity 954', '2004 NewYorkCity 961', '2004 NewYorkCity 1070', '2004 NewYorkCity 1124', '2004 NewYorkCity 1290', '2005 Boston 041', '2005 Boston 041', '2005 Rochester 038', '2006 Chicago 024', '2006 JimThorpe 04', '2006 LehighValley 20', '2006 NewHope 006', '2006 NewYorkCity 114', '2006 Philadelphia 005', '2006 Philadelphia 121', '2006 Philadelphia 151', '2006 Quakertown 007', '2009 NewYear 151', '2010 Bethlehem 41', '2010 Madison 045', '2011 Bethlehem 33', '2011 Naples 49', '2011 Wescosville 003', '2013 Beijing 0226', '2013 Beijing 0507', '2013 Beijing 1454', '2013 Beijing 2143', '2013 ChichenItza 280', '2013 Seattle 389', '2013 TowersEast 161', '2014 Burlington 21', '2014 FortMyers 55', '2014 Pittsburgh 007', '2015 LasVegas 027', '2015 NewYorkCity 035', '2015 NewYorkCity 0117', '2015 NewYorkCity 0139', '2015 NewYorkCity 0400', '2015 NewYorkCity 0683', '2015 NewYorkCity 1061', '2015 Rochester 059', '2015 Rochester 075', '2016 Cambridge 124', '2016 Lisbon 089', '2016 Lisbon 197', '2016 Lisbon 289', '2016 Lisbon 493', '2016 London 333', '2016 Madrid 074', '2016 Madrid 296', '2016 Marseille 247', '2016 NewYorkCity 040', '2016 NewYorkCity 096', '2016 NewYorkCity 161', '2016 NewYorkCity 187', '2016 NewYorkCity 199', '2016 Nice 079', '2016 Paris 0067', '2016 Paris 0695', '2016 Sintra 216', '2016 Sintra 283', '2016 Toledo 286', '2017 AtlanticCity 27', '2017 Philadelphia 296', '2017 Pittsburgh 055', '2017 Pittsburgh 093', '2017 Pittsburgh 100', '2017 Pittsburgh 140', '2017 WestOakLane 091', '2017 WestOakLane 134', '2018 Denver 250', '2023 Himeji 25', '2023 Hiroshima 95', '2023 Okayama 26', '2023 Osaka 2', '2023 Osaka 84', '2024 Singapore 407'];
 
   var totalImages = titles.length;
+  var ext = '.webp';
 
-  for (var i = totalImages; i >= 1; i--) {
-    var j = i;
-    if (i < 10) {
-      j = '0' + i;
-    }
+  for (var i = 1; i <= totalImages; i++) {
     data.push({
-      image : imageLocation + imagePrefix + j + '.jpg',
-      thumb : thumbLocation + imagePrefix + j + '.jpg',
-      big : imageLocation + imagePrefix + j + '.jpg',
-      title: titles[i - 1],
-      description: 'none'
+      image : imageLocation + imagePrefix + i + ext,
+      thumb : thumbLocation + imagePrefix + i + ext,
+      title: titles[i - 1]
     });
   }
+
+  data.reverse(); // Reverse the order of the photos
 
   // Load the custom theme
   Galleria.loadTheme('/assets/js/galleria/galleria.portfolio.js');
