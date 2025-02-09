@@ -22,7 +22,7 @@ title: Hiatt Zhao
 email: hiattzhao@gmail.com
 description: photos
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://photo.hiattzhao.com"
+url: "https://photos.hiattzhao.com"
 twitter_username: hiattzhao
 github_username: hiattzhao
 
@@ -56,5 +56,4 @@ header_pages:
   - abstract.markdown
   - nature.markdown
   - travel.markdown
-  - shop.markdown
   - cv.markdown
