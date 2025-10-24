@@ -1,7 +1,7 @@
 ---
 layout: page
-title: shop
-permalink: /shop
+title: special
+permalink: /special
 ---
 
 <div style="text-align:center">
