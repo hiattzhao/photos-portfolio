@@ -20,7 +20,7 @@ layout: home
 
   <p>When I'm not doing the above, I like to read positive psychology, business, and finance books. I also like to write, hike, cook, play the guitar, and learn Chinese.</p>
 
-  <p>One of my goals in life is to see the world. I'm currently on a <a class="page-link" href="https://www.hiattzhao.com" target="_blank">world bicycling/backpacking tour <i class="fa fa-external-link"></i></a>.</p>
+  <!-- <p>One of my goals in life is to see the world. I'm currently on a <a class="page-link" href="https://www.hiattzhao.com" target="_blank">world bicycling/backpacking tour <i class="fa fa-external-link"></i></a>.</p> -->
 </div>
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
