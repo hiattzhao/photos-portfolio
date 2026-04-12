@@ -48,10 +48,9 @@ Moreover, my photos have been exhibited in galleries since I was 19 years old. C
 
 # Publications
 
+- 2026: Architecture Perspective: The Ambré Collection (<a href="https://www.blurb.com/b/12839348-architecture-perspective-the-ambr-collection" target="_blank">Blurb hardcover photo book and PDF</a>)
 - 2020: Zhaoism - The Autobiography of Hiatt Zhao: The First 25 Years (<a href="https://www.amazon.com/dp/B08P2S9S26" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/B08P1HM3BD" target="_blank">paperback from Amazon</a>)
-- 2013: Architecture Perspective: The Ambré Collection (<a href="https://www.amazon.com/dp/B07JLT7LNZ" target="_blank">Kindle ebook</a> and <a href="https://www.amazon.com/dp/1491016930" target="_blank">paperback from Amazon</a>)
 - 2009: The Artistic Portfolio of Hiatt Zhao (out of print)
-- 2009: Architecture Perspective (out of print)
 - 2007: Teenage American Travel: Around the US in 45 Days (out of print)
 - 2005-2006, Spring 2005, Fall 2004, Spring 2004: LOGOS (archived at the University of Rochester libraries)
 - 2003: Glyphs (archived at Madison High School in Madison, NJ)
