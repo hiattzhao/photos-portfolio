@@ -56,7 +56,7 @@ Moreover, my photos have been exhibited in galleries since I was 19 years old. C
 - 2003: Glyphs (archived at Madison High School in Madison, NJ)
 - 2003: Windmill of Wonder, Images of the Mind (archived at the International Library of Photography)
 
-# Recognition
+# Recognitions
 
 - 2010: University of Rochester Department of Chemistry established the "Hiatt Zhao Art Appreciation Prize"
 - 2006, October 14: Certificate of Recognition Honorable Mention Award for "Picture Bucks County"
@@ -64,3 +64,19 @@ Moreover, my photos have been exhibited in galleries since I was 19 years old. C
 # Press
 
 - 2007, March 15: “Young Traveler’s Camera Clicks Cleverly Mix Science and Art” – by Geoff Gehman ([The Morning Call](https://www.mcall.com/news/mc-xpm-2007-03-15-3711499-story.html){:target="\_blank"})
+
+# Contact
+
+<form action="https://formsubmit.co/e78a3eecd44f450fb81e033a2269a425" method="POST">
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" required>
+
+<label for="email">Email</label>
+<input type="email" id="email" name="email" required>
+
+<label for="message">Message</label>
+<textarea id="message" name="message" rows="5" required></textarea>
+
+<button type="submit">Send</button>
+
+</form>
