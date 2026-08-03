@@ -125,6 +125,7 @@ form button:hover {
 
 @media screen and (max-width: 768px) {
   #galleria {
-    height: 700px;
+    height: calc(100vh - 120px);
+    max-height: 700px;
   }
 }
