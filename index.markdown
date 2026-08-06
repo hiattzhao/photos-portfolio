@@ -16,9 +16,9 @@ layout: home
     <em class="title">a curious learner</em>
   </h2> -->
 
-  <p>I have a passion for the visual arts and I've been exhibiting my photographs in galleries for over twenty years. Along with a scientific mind, I worked as a web developer and an application engineer.</p>
+  <p>I have a passion for the visual arts and I've been exhibiting my photographs in galleries for over twenty years. Along with a scientific mind, I worked as <a href="https://dev.hiattzhao.com">a web developer and an application engineer</a>.</p>
   
-  <p>In my spare time, I love to travel, read positive psychology, business, and finance books. I also like to write, hike, play the guitar, and learn Chinese.</p>
+  <p>In my spare time, I love to <a href="https://hiattzhao.com">travel</a>, read positive psychology, business, and finance books. I also like to write, hike, play the guitar, and learn Chinese.</p>
 
   <!-- <p>One of my goals in life is to see the world. I'm currently on a <a class="page-link" href="https://www.hiattzhao.com" target="_blank">world bicycling/backpacking tour <i class="fa fa-external-link"></i></a>.</p> -->
 </div>
